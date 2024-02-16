@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignoZodiacal", "SignoZodiacal\SignoZodiacal.csproj", "{1CB962BD-2322-4A70-B3BD-22AEFEEF5B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogicaNegocio", "CapaLogicaNegocio\CapaLogicaNegocio.csproj", "{251D4DDD-CD16-4617-A67C-55F0E55EBFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB962BD-2322-4A70-B3BD-22AEFEEF5B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB962BD-2322-4A70-B3BD-22AEFEEF5B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB962BD-2322-4A70-B3BD-22AEFEEF5B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB962BD-2322-4A70-B3BD-22AEFEEF5B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251D4DDD-CD16-4617-A67C-55F0E55EBFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251D4DDD-CD16-4617-A67C-55F0E55EBFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251D4DDD-CD16-4617-A67C-55F0E55EBFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251D4DDD-CD16-4617-A67C-55F0E55EBFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BDA92B-BB1E-47A1-9E82-FDE4F4DF4EEE}
+	EndGlobalSection
+EndGlobal

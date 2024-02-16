@@ -1,0 +1,102 @@
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.staticwebassets.runtime.json
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.exe
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.deps.json
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.dll
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.RazorAssemblyInfo.cache
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.RazorAssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.SignoZodiacal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.build.SignoZodiacal.props
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignoZodiacal.props
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignoZodiacal.props
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\bundle\SignoZodiacal.styles.css
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\projectbundle\SignoZodiacal.bundle.scp.css
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.dll
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\refint\SignoZodiacal.dll
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\ref\SignoZodiacal.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\appsettings.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.staticwebassets.runtime.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.exe
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.deps.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.runtimeconfig.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.pdb
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.AssemblyReference.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.AssemblyInfoInputs.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.AssemblyInfo.cs
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.CoreCompileInputs.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.RazorAssemblyInfo.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.RazorAssemblyInfo.cs
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.SignoZodiacal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.build.SignoZodiacal.props
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignoZodiacal.props
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignoZodiacal.props
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\bundle\SignoZodiacal.styles.css
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\projectbundle\SignoZodiacal.bundle.scp.css
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.CopyComplete
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\refint\SignoZodiacal.dll
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.pdb
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.genruntimeconfig.cache
+C:\Users\D19B8411\OneDrive\diagramas de flujo\OneDrive\Escritorio\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\ref\SignoZodiacal.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\appsettings.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.staticwebassets.runtime.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.exe
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.deps.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.runtimeconfig.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\SignoZodiacal.pdb
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\CapaLogicaNegocio.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\bin\Debug\net6.0\CapaLogicaNegocio.pdb
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.AssemblyInfo.cs
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.RazorAssemblyInfo.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.RazorAssemblyInfo.cs
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.SignoZodiacal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.build.SignoZodiacal.props
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignoZodiacal.props
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignoZodiacal.props
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\bundle\SignoZodiacal.styles.css
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\scopedcss\projectbundle\SignoZodiacal.bundle.scp.css
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.csproj.CopyComplete
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\refint\SignoZodiacal.dll
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.pdb
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\SignoZodiacal.genruntimeconfig.cache
+C:\Users\aleja\Desktop\ConversorDeMonedas\SignoZodiacal\SignoZodiacal\obj\Debug\net6.0\ref\SignoZodiacal.dll
